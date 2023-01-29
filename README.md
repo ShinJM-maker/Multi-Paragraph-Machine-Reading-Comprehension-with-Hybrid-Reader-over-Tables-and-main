@@ -56,4 +56,7 @@ If you want to download all library at once, use this code.
 pip install -r requirements.txt
 ```
 
+## Contrinutors
+Sanghyeon Cho, Herin Kim
+
 ## License
