@@ -1,3 +1,11 @@
+# Exobrain 총괄 1세부 - 휴먼 지식증강 서비스를 위한 지능진화형 WiseQA 플랫폼 기술 개발
+- 한국과학기술정보통신부 & ETRI
+
+- 2020.09~2022.12
+
+## Table-QA
+본 저장소는 "Exobrain 총괄 1세부 - 휴먼 지식증강 서비스를 위한 지능진화형 WiseQA 플랫폼 기술 개발" 과제의 Table QA 코드 공유 및 성과를 공유하기 위한 것이다.
+
 # Multi Paragraph Machine Reading Comprehension with Hybrid Reader over Tables and Text
 This is the official repo for **Multi Paragraph Machine Reading Comprehension with Hybrid Reader over Tables and Text**, a manuscript of Heliyon.
 
