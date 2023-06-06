@@ -65,6 +65,6 @@ pip install -r requirements.txt
 ```
 
 ## Contrinutors
-Sanghyeon Cho, Herin Kim
+Joongmin Shin, Sanghyeon Cho, Herin Kim
 
 ## License
